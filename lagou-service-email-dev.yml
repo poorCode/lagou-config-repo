@@ -1,1 +1,7 @@
-
+spring:
+  mail:
+    host: smtp.qq.com
+    port: 465
+    username: 1977556554@qq.com
+    password: nwlkkecpywnsejja
+    protocol: smtps
